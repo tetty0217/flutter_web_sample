@@ -2,174 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59e3f182-b52b-4f9e-8a8d-d8945565dcb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/migration_guide.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/assets/FontManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/assets/fonts/Raleway-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/assets/fonts/Raleway-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/assets/fonts/RobotoMono-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/assets/fonts/RobotoMono-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/web/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/build.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/all.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/animation/home.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/animation/sections.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/animation/widgets.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/animation_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/colors_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/contacts_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/backdrop_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/bottom_app_bar_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/bottom_navigation_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/cards_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/chip_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/data_table_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/date_and_time_picker_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/dialog_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/drawer_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/editable_text_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/elevation_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/expansion_panels_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/full_screen_dialog_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/grid_list_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/icons_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/leave_behind_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/list_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/material.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/material_button_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/menu_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/modal_bottom_sheet_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/overscroll_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/page_selector_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/persistent_bottom_sheet_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/progress_indicator_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/reorderable_list_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/scrollable_tabs_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/search_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/selection_controls_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/slider_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/snack_bar_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/stack_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/switch_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/tabs_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/tabs_fab_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/text_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/text_form_field_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/tooltip_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/two_level_list_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/pesto_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine/shrine_data.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine/shrine_home.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine/shrine_order.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine/shrine_page.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine/shrine_theme.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine/shrine_types.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/typography_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/about.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/app.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/backdrop.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/demos.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/home.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/icons.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/options.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/scales.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/themes.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/main_houdini.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/test/demo/material/text_form_field_demo_test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/test/gallery_test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/AbrilFatface-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/FontManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/GalleryIcons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/GoogleSans-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/LibreFranklin-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/Merriweather-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/Raleway-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/butternut_squash_soup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/cherry_pie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/chopped_beet_leaves.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/fish.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/healthy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/main.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/meat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/quick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/spicy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/veggie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/pesto_pasta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/roasted_chicken.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/spanakopita.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/spinach_onion_salad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/logos/flutter_white/1.5x/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/logos/flutter_white/2.5x/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/logos/flutter_white/3.0x/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/logos/flutter_white/4.0x/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/logos/flutter_white/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/logos/pesto/logo_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/people/ali_landscape.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/people/square/ali.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/people/square/peter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/people/square/sandra.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/people/square/stella.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/people/square/trevor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_chennai_flower_market.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_chennai_highway.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_chettinad_produce.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_chettinad_silk_maker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_pondicherry_beach.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_pondicherry_fisherman.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_pondicherry_salt_farm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_tanjore_bronze_works.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_tanjore_market_merchant.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_tanjore_market_technology.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_tanjore_thanjavur_temple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_tanjore_thanjavur_temple_carvings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_thanjavur_market.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/backpack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/belt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/cup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/deskset.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/dress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/earrings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/flatwear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/hat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/jacket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/jumper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/kitchen_quattro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/napkins.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/planters.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/platter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/scarf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/shirt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/sunnies.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/sweater.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/sweats.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/teaset.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/houdini.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/houdini_main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/gallery/web/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/hello_world/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/hello_world/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/hello_world/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/hello_world/web/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/spinning_square/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/spinning_square/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/spinning_square/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/spinning_square/web/main.dart" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/global.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -184,32 +20,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/main.dart">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="264">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding>
-                <element signature="e#165#211#0" expanded="true" />
+                <element signature="e#0#296#0" expanded="true" />
+                <element signature="e#166#209#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/lib/app.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="-31">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/flutter_web/lib/src/widgets/basic.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="659">
+              <caret line="4872" column="12" lean-forward="true" selection-start-line="4872" selection-start-column="12" selection-end-line="4872" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>console.debug</find>
+      <find>SpinningSquare</find>
+      <find>_SpinningSquare</find>
     </findStrings>
+    <replaceStrings>
+      <replace>App</replace>
+      <replace>_App</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -230,6 +89,9 @@
         <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/web/main.dart" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/lib/global.dart" />
+        <option value="$PROJECT_DIR$/lib/main.dart" />
+        <option value="$PROJECT_DIR$/lib/app.dart" />
       </list>
     </option>
   </component>
@@ -254,6 +116,11 @@
               <item name="flutter_web_sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="flutter_web_sample" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_web_sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_web_sample" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flutter_web_sample" type="b2602c69:ProjectViewProjectNode" />
@@ -318,12 +185,12 @@
       <workItem from="1557365620303" duration="2313000" />
       <workItem from="1557368519688" duration="7052000" />
       <workItem from="1557381349457" duration="79000" />
-      <workItem from="1557381479835" duration="1588000" />
+      <workItem from="1557381479835" duration="3415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11596000" />
+    <option name="totallyTimeSpent" value="13423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1650" height="1050" extended-state="0" />
@@ -346,7 +213,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.37244898" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3102041" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="12" weight="0.32959184" />
       <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
@@ -612,13 +479,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#296#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -632,10 +496,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/packages/flutter_web/lib/src/widgets/ticker_provider.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="239">
+          <caret line="68" column="31" lean-forward="true" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/flutter_web/lib/src/painting/text_span.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/global.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/flutter_web/lib/src/widgets/basic.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="4872" column="12" lean-forward="true" selection-start-line="4872" selection-start-column="12" selection-end-line="4872" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#296#0" expanded="true" />
+            <element signature="e#166#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/app.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>

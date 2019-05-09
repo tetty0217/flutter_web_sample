@@ -3,7 +3,8 @@
 // found in the LICENSE file.
 
 import 'package:flutter_web/material.dart';
+import 'package:flutter_web_sample/app.dart';
 
 void main() {
-  runApp(new Text('Hello World', textDirection: TextDirection.ltr));
+  runApp(App());
 }
