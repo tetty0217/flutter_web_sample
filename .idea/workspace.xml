@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59e3f182-b52b-4f9e-8a8d-d8945565dcb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/migration_guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/assets/fonts/Raleway-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/assets/fonts/Raleway-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/assets/fonts/RobotoMono-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/assets/fonts/RobotoMono-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/custom_fonts/web/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/web/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/build.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/all.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/animation/home.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/animation/sections.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/animation/widgets.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/animation_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/colors_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/contacts_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/backdrop_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/bottom_app_bar_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/bottom_navigation_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/cards_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/chip_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/data_table_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/date_and_time_picker_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/dialog_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/drawer_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/editable_text_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/elevation_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/expansion_panels_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/full_screen_dialog_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/grid_list_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/icons_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/leave_behind_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/list_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/material.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/material_button_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/menu_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/modal_bottom_sheet_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/overscroll_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/page_selector_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/persistent_bottom_sheet_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/progress_indicator_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/reorderable_list_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/scrollable_tabs_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/search_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/selection_controls_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/slider_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/snack_bar_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/stack_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/switch_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/tabs_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/tabs_fab_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/text_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/text_form_field_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/tooltip_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/material/two_level_list_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/pesto_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine/shrine_data.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine/shrine_home.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine/shrine_order.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine/shrine_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine/shrine_theme.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine/shrine_types.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/shrine_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/demo/typography_demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/about.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/app.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/backdrop.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/demo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/demos.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/home.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/icons.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/options.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/scales.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/gallery/themes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/lib/main_houdini.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/test/demo/material/text_form_field_demo_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/test/gallery_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/AbrilFatface-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/GalleryIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/GoogleSans-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/LibreFranklin-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/Merriweather-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/Raleway-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/butternut_squash_soup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/cherry_pie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/chopped_beet_leaves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/fish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/healthy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/meat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/quick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/spicy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/icons/veggie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/pesto_pasta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/roasted_chicken.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/spanakopita.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/food/spinach_onion_salad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/logos/flutter_white/1.5x/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/logos/flutter_white/2.5x/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/logos/flutter_white/3.0x/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/logos/flutter_white/4.0x/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/logos/flutter_white/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/logos/pesto/logo_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/people/ali_landscape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/people/square/ali.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/people/square/peter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/people/square/sandra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/people/square/stella.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/people/square/trevor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_chennai_flower_market.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_chennai_highway.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_chettinad_produce.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_chettinad_silk_maker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_pondicherry_beach.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_pondicherry_fisherman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_pondicherry_salt_farm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_tanjore_bronze_works.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_tanjore_market_merchant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_tanjore_market_technology.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_tanjore_thanjavur_temple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_tanjore_thanjavur_temple_carvings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/places/india_thanjavur_market.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/backpack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/belt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/cup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/deskset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/dress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/earrings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/flatwear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/hat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/jacket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/jumper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/kitchen_quattro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/napkins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/planters.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/platter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/scarf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/shirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/sunnies.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/sweater.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/sweats.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/teaset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/assets/products/top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/houdini.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/houdini_main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gallery/web/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/hello_world/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/hello_world/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/hello_world/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/hello_world/web/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/spinning_square/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/spinning_square/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/spinning_square/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/spinning_square/web/main.dart" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#165#211#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>console.debug</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/examples/gallery/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/examples/spinning_square/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/examples/flutter_web.examples/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/tool/verify_packages.dart" />
+        <option value="$PROJECT_DIR$/examples/hello_world/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/hello_world/web/main.dart" />
+        <option value="$PROJECT_DIR$/hello_world/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/packages/flutter_web_ui/lib/ui.dart" />
+        <option value="$PROJECT_DIR$/flutter_web_sample/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/flutter_web_sample/web/main.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/web/main.dart" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1650" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flutter_web_sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_web_sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_web_sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_web_sample" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_web_sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_web_sample" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_web_sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_web_sample" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/hello_world" />
+      <recent name="$PROJECT_DIR$/flutter_web_sample" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59e3f182-b52b-4f9e-8a8d-d8945565dcb0" name="Default Changelist" comment="" />
+      <created>1557364741253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557364741253</updated>
+      <workItem from="1557364744857" duration="82000" />
+      <workItem from="1557364847221" duration="482000" />
+      <workItem from="1557365620303" duration="2313000" />
+      <workItem from="1557368519688" duration="7052000" />
+      <workItem from="1557381349457" duration="79000" />
+      <workItem from="1557381479835" duration="1588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11596000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1650" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14800996" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.37244898" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" order="12" weight="0.32959184" />
+      <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32959184" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Flutter Inspector" order="9" />
+      <window_info anchor="right" id="Flutter Outline" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20584577" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.37244898" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" order="13" weight="0.32959184" />
+      <window_info anchor="bottom" id="Flutter Performance" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Flutter Inspector" order="9" />
+      <window_info anchor="right" id="Flutter Outline" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.github/CONTRIBUTING.md" />
+    <entry file="file://$PROJECT_DIR$/analysis_options.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/migration_guide.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="382">
+            <caret line="147" column="8" lean-forward="true" selection-start-line="147" selection-start-column="8" selection-end-line="147" selection-end-column="8" />
+            <folding>
+              <element signature="e#0#46#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/flutter_web_test/test/widget_tester_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/flutter_web/lib/foundation.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#1360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/gallery/web/houdini_main.dart" />
+    <entry file="file://$PROJECT_DIR$/packages/flutter_web_ui/lib/src/ui/window.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="500" column="6" selection-start-line="500" selection-start-column="6" selection-end-line="500" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/flutter/flutter_v1.5.4-hotfix.2-stable/bin/cache/dart-sdk/lib/html/dart2js/html_dart2js.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="214" column="22" selection-start-line="214" selection-start-column="22" selection-end-line="214" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#1230762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/flutter_web_ui/lib/src/ui/browser_location.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="165" column="36" selection-start-line="165" selection-start-column="36" selection-end-line="165" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/flutter_web_ui/lib/src/ui/initialization.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/gallery/web/assets/food/butternut_squash_soup.png" />
+    <entry file="file://$PROJECT_DIR$/examples/gallery/pubspec.lock" />
+    <entry file="file://$PROJECT_DIR$/examples/gallery/build.yaml" />
+    <entry file="file://$PROJECT_DIR$/examples/gallery/web/main.dart" />
+    <entry file="file://$PROJECT_DIR$/examples/gallery/web/houdini.html" />
+    <entry file="file://$PROJECT_DIR$/examples/gallery/web/assets/FontManifest.json" />
+    <entry file="file://$PROJECT_DIR$/examples/spinning_square/pubspec.lock" />
+    <entry file="file://$PROJECT_DIR$/examples/gallery/test/gallery_test.dart" />
+    <entry file="file://$PROJECT_DIR$/examples/spinning_square/lib/main.dart" />
+    <entry file="file://$PROJECT_DIR$/examples/gallery/pubspec.yaml" />
+    <entry file="file://$PROJECT_DIR$/examples/spinning_square/pubspec.yaml" />
+    <entry file="file://$PROJECT_DIR$/flutter_web_sample/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flutter_web_sample.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.packages" />
+    <entry file="file://$PROJECT_DIR$/packages/flutter_web/lib/src/widgets/animated_size.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#2668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml" />
+    <entry file="file://$PROJECT_DIR$/packages/flutter_web/lib/src/painting/borders.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#27093#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/verify_packages.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#2472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello_world/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/flutter_web/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pub-cache/git/flutter_web-b3057c5b000e7a1ccc3588084fb24243f08966d6/packages/flutter_web_ui/lib/ui.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#1310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flutter_web_sample/pubspec.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#165#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flutter_web_sample/.packages">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flutter_web_sample/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/flutter_web_ui/lib/ui.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="156" column="17" selection-start-line="156" selection-start-column="17" selection-end-line="156" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#165#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

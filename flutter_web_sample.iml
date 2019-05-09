@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/custom_fonts/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/custom_fonts/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/custom_fonts/build" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/flutter_web.examples/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/flutter_web.examples/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/flutter_web.examples/build" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/gallery/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/gallery/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/gallery/build" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/hello_world/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/hello_world/build" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/spinning_square/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/spinning_square/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/spinning_square/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_web_sample/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_web_sample/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_web_sample/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_world/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_world/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/tool/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tool/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tool/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
