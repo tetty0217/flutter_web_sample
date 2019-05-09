@@ -25,7 +25,6 @@
       <excludeFolder url="file://$MODULE_DIR$/flutter_web_sample/build" />
       <excludeFolder url="file://$MODULE_DIR$/hello_world/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/hello_world/build" />
-      <excludeFolder url="file://$MODULE_DIR$/packages" />
       <excludeFolder url="file://$MODULE_DIR$/tool/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/tool/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/tool/build" />
